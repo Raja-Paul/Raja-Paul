@@ -11,12 +11,16 @@ CSS NIT Durgapur - Senior Coordinator. I do MERN Stack development and event man
 
 ## Things I did previously 🔎
 built a Food Delivery App using MERN Stacks.
+
 built a File Sharing OS project.
+
 built a To-Do list using JS.
+
 built a CSS Website using React.
 
 ## Tools and tech I use tool 🖥
 React JS,Python, Firebase, NodeJS, Express JS, Microsoft Azure, MongoDB, MySQL
+
 VS Code, Git, Vercel, Render
 ## Connect with me 👨‍🚀
 linkedin 
