@@ -4,6 +4,7 @@ Worked as an Web Developer Intern at @SparkFoundation and an active open source 
 
 ## Things I do 💻
 IEEE SB NIT Durgapur - Senior Executive Member. I do MERN Stack development there.
+
 CSS NIT Durgapur - Senior Coordinator. I do MERN Stack development and event management there.
 
 ## Projects I'm working on 👨‍💻
