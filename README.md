@@ -1,5 +1,5 @@
 ## Hi, I am Raja Paul 👋
-About Me 🚀
+## About Me 🚀
 Worked as an Web Developer Intern at @SparkFoundation and an active open source contributor and maintainer. I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
 ## Things I do 💻
