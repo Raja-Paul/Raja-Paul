@@ -1,16 +1,23 @@
-### Hi there 👋
+## Hi, I am Raja Paul 👋
+About Me 🚀
+Worked as an Web Developer Intern at @SparkFoundation and an active open source contributor and maintainer. I am a CS Undergrad @ NIT Durgapur and a Machine Learning Developer leveraging AI for Social Good.
 
-<!--
-**Raja-Paul/Raja-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Things I do 💻
+IEEE SB NIT Durgapur - Senior Executive Member. I do MERN Stack development there.
+CSS NIT Durgapur - Senior Coordinator. I do MERN Stack development and event management there.
 
-Here are some ideas to get you started:
+## Projects I'm working on 👨‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I did previously 🔎
+built a Food Delivery App using MERN Stacks.
+built a File Sharing OS project.
+built a To-Do list using JS.
+built a CSS Website using React.
+
+## Tools and tech I use tool 🖥
+React JS,Python, Firebase, NodeJS, Express JS, Microsoft Azure, MongoDB, MySQL
+VS Code, Git, Vercel, Render
+## Connect with me 👨‍🚀
+linkedin 
+
+*****Thank You*****
