@@ -113,7 +113,8 @@
    </a>
 </div>
 
-
+<h2></h2>
+<h3 align="center"><a href="https://github.com/Raja-Paul"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
 
    <a href="mailto:mrpaulraja1@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mrpaulraja1@gmail.com" />
