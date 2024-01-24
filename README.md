@@ -94,95 +94,32 @@
 <img align="right" width=40% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github.gif">
 </a>
 <br>
-<a href="https://personal-portfolio-kohl-six.vercel.app/">
+<a href="">
 <img width=45% height=100% src="https://img.shields.io/website?down_color=red&down_message=DOWN&label=My%20Website&logo=Github&style=for-the-badge&up_message=RUNNING&url=https%3A%2F%2Fpersonal-portfolio-kohl-six.vercel.app/" />
 </a>
 
 
 <br>
-<a href="https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/">
-<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/)]((https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/)"/>
+<a href="https://www.linkedin.com/in/raja-paul-57461b229/">
+<img width=45% height=100% src="https://img.shields.io/badge/-Connect With Me-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/raja-paul-57461b229/)]((https://www.linkedin.com/in/raja-paul-57461b229/)"/>
 </a>
 <br>
 
-<a href="https://www.linkedin.com/in/shubhodaya-sarkar-a582581b8/">
-<img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/shubhodaya-sarkar-a582581b8/"/>
+<a href="https://www.linkedin.com/in/raja-paul-57461b229/">
+<img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/mrpaulraja/"/>
 </a>
 <div align=center>
    <a href="https://github.com/Raja-Paul">
    <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
    </a>
 </div>
-<h2 align="center"><a href="https://github.com/Raja-Paul"><img alt="Star" width=20% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/star.gif"><img width=80% alt="My Stats" src="./img/mystats.svg"/></a></h2>
-<div align="center">
-   <a href="https://github.com/Raja-Paul">
-   <img src="https://github-readme-stats.vercel.app/api?username=Shubhodaya&show_icons=true&locale=en&langs_count=20&count_private=true&theme=radical&layout=compact&hide_border=false&bg_color=000000&border_color=808080" width=49% height=100%/>
-   </a>
-   <a href="https://github.com/Raja-Paul">
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Shubhodaya&theme=neon-dark&date_format=M%20j%5B%2C%20Y%5D" alt="Shubhodaya" width=49% height=100%/>
-   <br/>
-   </a>
-</div>
-<h2></h2>
-<div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img src="https://github-profile-trophy.vercel.app/?username=Shubhodaya&no-bg=true&theme=onedark&no-frame=true" alt="Shubhodaya" width=200% height=100%/>
-      
-   </a>
-</div>
-<h2></h2>
-<!--   
-   <div align="center">
-       <a href="https://github.com/Sabyasachi-Seal">
-           <img src="https://github-profile-trophy.vercel.app/?username=sabyasachi-seal&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Stars&column=5" alt="zumrudu-anka" />
-       </a>
-   </div>
-   -->
-<div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shubhodaya&theme=redical&hide_border=true" />
-   </a>
-</div>
-<!-- <h2></h2> -->
-<!-- <div align=center>
-   <a href="https://github.com/Raja-Paul" target="_blank">
-   <img align=center width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/3DGraphs/profile-night-rainbow.svg" />
-   </a>
-</div> -->
-<!-- <h2></h2>
-<div align=center>
-   <a href="https://github.com/Raja-Paul">
-<!--    <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/achievements.svg" /> -->
-<!--    <img width=49% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/skyline.svg" />
-   </a> -->
-</div> 
-<div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </a>
-</div>
-<div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/connected.gif" />
-   </a>
-   <a href="https://github.com/Raja-Paul">
-   <img align="center" alt="Coding" width=49% height=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/img/code.gif" />
-   </a>
-   <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-      <img align=center alt="Footer" width=49% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
-      </a> -->
-</div>
-<h2></h2>
-<h3 align="center"><a href="https://github.com/Raja-Paul"><img width=15% alt="Phone" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/phone.gif">&nbsp;<img width=80% alt="Wanna Talk?" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/wannatalk.svg"/></a></h3>
-<div align=center>
-   <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
-      <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
-      </a> -->
+
+
+
    <a href="mailto:mrpaulraja1@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mrpaulraja1@gmail.com" />
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+9382432159" />
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=shubhodayasarkar40@gmail.com" />
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+8777346946" />
+
    </a>
 </div>
 <div align=center>
