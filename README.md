@@ -178,7 +178,7 @@
    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
       <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
       </a> -->
-   <a href="mailto:shubhodayasarkar40@gmail.com" target="_blank">
+   <a href="mailto:mrpaulraja1@gmail.com" target="_blank">
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=shubhodayasarkar40@gmail.com" />
    <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+8777346946" />
    </a>
