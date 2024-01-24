@@ -178,9 +178,9 @@
    <!-- <a href="https://www.linkedin.com/in/sabyasachi-seal-4461711bb/">
       <img align="right" alt="Footer" width=45% src="https://linkedin-github.herokuapp.com/api/render/Sabyasachi%20Seal/Tech%20Enthusiast/Student/Bachelor%20of%20Technology/dark-red/https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F36451386%3Fv%3D4" />
       </a> -->
-   <a href="mailto:shubhodayasarkar40@gmail.com" target="_blank">
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=shubhodayasarkar40@gmail.com" />
-   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+8777346946" />
+   <a href="mailto:mrpaulraja1@gmail.com" target="_blank">
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&center=true&vCenter=true&width=450%&lines=mrpaulraja1@gmail.com" />
+   <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%232CF7E4&center=true&vCenter=true&width=450%&lines=(%2B91)+9382432159" />
    </a>
 </div>
 <div align=center>
@@ -194,60 +194,6 @@
    <img align="center" alt="Snake" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg" />
    </a>
 </div>
-<!--https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/github-snake.svg-->
-<!-- <div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </a>
-</div> -->
-<!-- <div align=center>
-   <iframe
-       title="Inline Frame Example"
-       width="100%"
-       src="https://sabyasachi-seal.github.io/ChromeDinoGame/">
-   </iframe>
-   </div> -->
-
-
-   
-<!-- <div align=center>            
-   <a href="https://github.com/Raja-Paul">
-   <img width=100% height=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e3d20c&center=true&vCenter=true&width=450%&lines=Shoutout+to+my+followers+!!!" />
-   <img width=100% height=100% align="center" alt="Followers" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/followers.svg" />
-   </a>
-</div> -->
-
-
-
-<div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </a>
-</div>
-<div align=center>
-   <a href="https://github.com/Raja-Paul">            
-   <img align="center" alt="Coding Habits" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/codehabits.svg" />
-   </a>
-</div>
-<!-- <h2></h2>
-<div align=center>
-   <a href="https://github.com/Sabyasachi-Seal">            
-   <img align="center" alt="Activity" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/activity.svg" />
-   </a>
-</div> -->
-<!-- <div align=center>
-   <a href="https://github.com/Raja-Paul">
-   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
-   </a>
-</div> -->
-<!-- <div align=center>   
-   <a href="https://personal-portfolio-kohl-six.vercel.app/">
-   <img width=100% align="center" alt="Coding" src="https://readme-typing-svg.herokuapp.com?font=Sora&color=e91e63&center=true&vCenter=true&width=350%&lines=Check+out+my+website+!" />        
-   <img align="center" alt="Website Stats" width=100% height=50% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/main/website.svg" />
-   <img align="center" width=95% alt="Website Thumbnail" width=100% height=50% src="...input..." />
-   </a>
-</div> -->
-<h2></h2>
 
 <div align=center>
    <a href="https://github.com/Raja-Paul">
