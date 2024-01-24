@@ -40,7 +40,6 @@
       </h2>
       <a href="https://github.com/Raja-Paul">
          <img align="left" width=50% alt="Github" src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif">
-         <!-- https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/coder.gif -->
       </a>
    </a>
    <p>
@@ -105,7 +104,7 @@
 </a>
 <br>
 
-<a href="https://www.linkedin.com/in/raja-paul-57461b229/">
+<a href="https://leetcode.com/mrpaulraja/">
 <img width=45% height=95% src="https://img.shields.io/badge/-LeetCode Profile-yellow?style=for-the-badge&logo=leetcode&logoColor=white&link=https://leetcode.com/mrpaulraja/"/>
 </a>
 <div align=center>
@@ -137,5 +136,4 @@
 <div align=center>
    <a href="https://github.com/Raja-Paul">
    <img align="center" alt="Footer" width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/footer.svg"/>
-   <!-- <img align="center" alt="Footer" width=100% src="img/footer.svg" /> -->
 </div>
